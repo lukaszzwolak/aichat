@@ -15,6 +15,7 @@ public class Message {
     @ManyToOne
     private ApplicationUser owner;
 
+    @Column(length = 4000)
     private String content;
 
     private LocalDateTime moment;
