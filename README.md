@@ -24,3 +24,4 @@ Usage:
 The client requires no installation or additional configuration. Interaction with the AI is simple: type your question and click the "Send" button. The AI’s response will appear directly in the chat window.
 
 Screenshot:
+![Zrzut ekranu 2024-09-23 204416](https://github.com/user-attachments/assets/d4286d0c-7030-459c-82d8-a1bd33de3c48)
